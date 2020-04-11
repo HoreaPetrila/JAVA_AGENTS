@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jade">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jade.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jsoup-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
